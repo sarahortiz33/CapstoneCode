@@ -1,0 +1,359 @@
+facility_name,facility_lat,facility_lon,business_status,bus_stop_name,bus_stop_lat,bus_stop_lon,distance_meters,distance_feet,nearby,name,address,latitude,longitude,place_id,business_status_facility,matched_keyword,business_type,category,phone,business_hours
+Northwest Medical Center,32.3195149,-111.0090887,OPERATIONAL,La Cholla/Hospital Dr.,32.319062,-111.012169,337,1105.64,TRUE,Northwest Medical Center,"6200 N La Cholla Blvd, Tucson, AZ 85741, USA",32.3195149,-111.0090887,ChIJs6P52Zl01oYR8iKm6UGjTM4,OPERATIONAL,healthcare facility,"['hospital', 'health', 'point_of_interest', 'establishment']",hospital,+1 520-742-9000,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Tucson Medical Center,32.2524759,-110.8800722,OPERATIONAL,Grant/Beverly,32.250543,-110.879635,228,748.03,TRUE,Tucson Medical Center,"5301 E Grant Rd, Tucson, AZ 85712, USA",32.2524759,-110.8800722,ChIJVxUjvjhu1oYRw1I8g5MDV74,OPERATIONAL,healthcare facility,"['hospital', 'point_of_interest', 'health', 'establishment']",hospital,+1 520-327-5461,"Monday: 8:00 AM – 8:00 PM
+Tuesday: 7:00 AM – 8:00 PM
+Wednesday: 7:00 AM – 8:00 PM
+Thursday: 8:00 AM – 8:00 PM
+Friday: 8:00 AM – 8:00 PM
+Saturday: 8:00 AM – 8:00 PM
+Sunday: 8:00 AM – 8:00 PM"
+MHC Healthcare Clinica Del Alma Health Center,32.1802006,-110.9569657,OPERATIONAL,Park/Ajo(NW),32.178865,-110.956384,194,636.48,TRUE,MHC Healthcare Clinica Del Alma Health Center,"3690 S Park Ave #805, Tucson, AZ 85713, USA",32.1802006,-110.9569657,ChIJt2nxzXh61oYRAi_t1Ngf0M8,OPERATIONAL,healthcare facility,"['pharmacy', 'doctor', 'store', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-616-6760,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+MHC Healthcare Wilmot Family Health Center,32.232055,-110.858362,OPERATIONAL,Wilmot/Rosewood,32.232116,-110.858113,144,472.44,TRUE,MHC Healthcare Wilmot Family Health Center,"899 N Wilmot Rd, Tucson, AZ 85711, USA",32.232055,-110.858362,ChIJqwZWrQtv1oYRHWUaA0h2Y-A,OPERATIONAL,healthcare facility,"['pharmacy', 'store', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-290-1100,"Monday: 7:00 AM – 6:00 PM
+Tuesday: 7:00 AM – 6:00 PM
+Wednesday: 7:00 AM – 6:00 PM
+Thursday: 7:00 AM – 6:00 PM
+Friday: 7:00 AM – 6:00 PM
+Saturday: Closed
+Sunday: Closed"
+MHC Healthcare Primary Care Health Center,32.24954870000001,-110.8822725,OPERATIONAL,Grant/Rosemont,32.250521,-110.883348,223,731.63,TRUE,MHC Healthcare Primary Care Health Center,"2355 N Wyatt Dr STE 101, Tucson, AZ 85712, USA",32.24954870000001,-110.8822725,ChIJdQlQ7zhu1oYR43jgJ7nxzrY,OPERATIONAL,healthcare facility,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-616-4948,"Monday: 7:00 AM – 5:00 PM
+Tuesday: 7:00 AM – 5:00 PM
+Wednesday: 7:00 AM – 5:00 PM
+Thursday: 7:00 AM – 5:00 PM
+Friday: 7:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Northwest Medical Center Houghton,32.1951333,-110.7747247,OPERATIONAL,22nd St/Houghton,32.206509,-110.773947,1601,5252.62,FALSE,Northwest Medical Center Houghton,"2200 S Houghton Rd, Tucson, AZ 85748, USA",32.1951333,-110.7747247,ChIJQckgBRxh1oYRJ7_xDbCZYBI,OPERATIONAL,healthcare facility,"['hospital', 'point_of_interest', 'health', 'establishment']",hospital,+1 520-543-6100,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Barrio Healthcare,32.2635825,-110.9264582,OPERATIONAL,Country Club/Ft Lowell,32.26432,-110.926902,81,265.75,TRUE,Barrio Healthcare,"3112 N Country Club Rd, Tucson, AZ 85716, USA",32.2635825,-110.9264582,ChIJY7apI0xx1oYRVx06pMPnVRI,OPERATIONAL,healthcare facility,"['point_of_interest', 'health', 'establishment']",primary_care,+1 520-485-1033,"Monday: Closed
+Tuesday: 8:00 AM – 6:00 PM
+Wednesday: 8:00 AM – 6:00 PM
+Thursday: 8:00 AM – 6:00 PM
+Friday: 8:00 AM – 6:00 PM
+Saturday: 8:00 AM – 6:00 PM
+Sunday: Closed"
+HealthOn Broadway,32.2208202,-110.9714337,OPERATIONAL,SL/Broadway/Stone,32.220952,-110.970796,60,196.85,TRUE,HealthOn Broadway,"1 W Broadway Blvd Suite #151, Tucson, AZ 85701, USA",32.2208202,-110.9714337,ChIJN3OOreFw1oYRZ3BoB7-dlHo,OPERATIONAL,healthcare facility,"['doctor', 'hospital', 'point_of_interest', 'health', 'establishment']",primary_care,+1 520-309-4200,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: 8:00 AM – 12:00 PM
+Sunday: Closed"
+UA Campus Health Service,32.2282313,-110.9521498,OPERATIONAL,6th St/Highland,32.227929,-110.951856,27,88.58,TRUE,UA Campus Health Service,"1224 E Lowell St, Tucson, AZ 85721, USA",32.2282313,-110.9521498,ChIJ88VxaQBx1oYRSzg5dkHtcXM,OPERATIONAL,healthcare facility,"['point_of_interest', 'health', 'establishment']",primary_care,+1 520-621-9202,"Monday: 8:30 AM – 4:30 PM
+Tuesday: 8:30 AM – 4:30 PM
+Wednesday: 9:00 AM – 4:00 PM
+Thursday: 8:30 AM – 4:30 PM
+Friday: 8:30 AM – 4:30 PM
+Saturday: Closed
+Sunday: Closed"
+MHC Healthcare Flowing Wells Family Health Center,32.2716543,-110.9939025,OPERATIONAL,Prince/Flowing Wells,32.27205,-110.994471,118,387.14,TRUE,MHC Healthcare Flowing Wells Family Health Center,"1323 W Prince Rd, Tucson, AZ 85705, USA",32.2716543,-110.9939025,ChIJKUO-lflz1oYRkoLSrq2Rmwc,OPERATIONAL,healthcare facility,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-887-0800,"Monday: 7:00 AM – 6:00 PM
+Tuesday: 7:00 AM – 6:00 PM
+Wednesday: 7:00 AM – 6:00 PM
+Thursday: 7:00 AM – 6:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+HealthOn University,32.2315175,-110.9643823,OPERATIONAL,SL/University/3rd Av,32.231658,-110.964423,3,9.84,TRUE,HealthOn University,"434 E University Blvd #100, Tucson, AZ 85705, USA",32.2315175,-110.9643823,ChIJvTIkHkNx1oYRiwE3rSshRCE,OPERATIONAL,healthcare,"['hospital', 'doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-309-4200,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Pinnacle HealthCare,32.2510735,-110.8714021,OPERATIONAL,Grant/Rainbow Vista,32.250813,-110.870887,70,229.66,TRUE,Pinnacle HealthCare,"5663 E Grant Rd, Tucson, AZ 85712, USA",32.2510735,-110.8714021,ChIJu6tH8Cp61oYRNMmVmx979Ls,OPERATIONAL,healthcare,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-433-4964,"Monday: 9:00 AM – 4:00 PM
+Tuesday: 9:00 AM – 4:00 PM
+Wednesday: 9:00 AM – 4:00 PM
+Thursday: 9:00 AM – 4:00 PM
+Friday: 9:00 AM – 1:00 PM
+Saturday: Closed
+Sunday: Closed"
+Community Partners Integrated Healthcare,32.1754653,-110.9558071,OPERATIONAL,Park/Palmdale,32.175473,-110.956207,92,301.84,TRUE,Community Partners Integrated Healthcare,"3939 S Park Ave, Tucson, AZ 85714, USA",32.1754653,-110.9558071,ChIJr8q2CHx61oYR_1ag968vp1w,OPERATIONAL,healthcare,"['point_of_interest', 'establishment']",primary_care,+1 520-333-4320,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+ArchWell Health,32.2212602,-110.8832633,OPERATIONAL,Broadway/Rosemont,32.221483,-110.883275,2,6.56,TRUE,ArchWell Health,"5100 E Broadway Blvd, Tucson, AZ 85711, USA",32.2212602,-110.8832633,ChIJ4W_wtlxv1oYRy_LjnBhbx7Q,OPERATIONAL,healthcare,"['hospital', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-613-3001,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Optima Medical - Tucson,32.2430212,-110.8665146,OPERATIONAL,Pima/Sahuara,32.24331,-110.866415,69,226.38,TRUE,Optima Medical - Tucson,"5902 E Pima St, Tucson, AZ 85712, USA",32.2430212,-110.8665146,ChIJdZc69rtv1oYR746Xr_eNnhM,OPERATIONAL,healthcare,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-886-5315,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 2:00 PM
+Saturday: Closed
+Sunday: Closed"
+Banner - University Medical Center Tucson,32.2429301,-110.9462013,OPERATIONAL,Campbell Av/Lester,32.243951,-110.943983,359,1177.82,TRUE,Banner - University Medical Center Tucson,"1625 N Campbell Ave, Tucson, AZ 85719, USA",32.2429301,-110.9462013,ChIJqYievqZx1oYR6r3xjxYjf0g,OPERATIONAL,healthcare,"['hospital', 'health', 'point_of_interest', 'establishment']",hospital,+1 520-694-0111,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Rincon Health Direct Primary Care,32.2516798,-110.8244432,OPERATIONAL,Wrightstown/Pantano,32.250877,-110.824684,73,239.5,TRUE,Rincon Health Direct Primary Care,"7831 E Wrightstown Rd UNIT 103, Tucson, AZ 85715, USA",32.2516798,-110.8244432,ChIJJXw0WjZn1oYRPepsLFiygMk,OPERATIONAL,healthcare,"['point_of_interest', 'health', 'establishment']",primary_care,+1 520-213-9503,"Monday: 8:00 AM – 4:30 PM
+Tuesday: 8:00 AM – 4:30 PM
+Wednesday: 8:00 AM – 4:30 PM
+Thursday: 8:00 AM – 4:30 PM
+Friday: 8:00 AM – 12:00 PM
+Saturday: Closed
+Sunday: Closed"
+Tucson Clinica Medica Familiar,32.1785622,-110.9831275,OPERATIONAL,Ajo/16th Av,32.177962,-110.981702,320,1049.87,TRUE,Tucson Clinica Medica Familiar,"3770 S 16th Ave, Tucson, AZ 85713, USA",32.1785622,-110.9831275,ChIJDVsCd6dw1oYRW3sP1hdtGck,OPERATIONAL,clinic,"['doctor', 'point_of_interest', 'health', 'establishment']",primary_care,+1 520-620-1200,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+El Rio Health Congress,32.2211121,-110.9856621,OPERATIONAL,SL/Av del Convento/Congress St,32.220037,-110.985287,127,416.67,TRUE,El Rio Health Congress,"839 W Congress St, Tucson, AZ 85745, USA",32.2211121,-110.9856621,ChIJexsh-Sdx1oYRP0KEevSclOU,OPERATIONAL,clinic,"['hospital', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-670-3909,"Monday: 7:00 AM – 8:00 PM
+Tuesday: 7:00 AM – 8:00 PM
+Wednesday: 7:00 AM – 8:00 PM
+Thursday: 7:00 AM – 8:00 PM
+Friday: 7:00 AM – 8:00 PM
+Saturday: 8:00 AM – 4:00 PM
+Sunday: Closed"
+The Arizona Clinic,32.221239,-110.8889805,OPERATIONAL,Broadway/Arcadia,32.221684,-110.887113,195,639.76,TRUE,The Arizona Clinic,"4834 E Broadway Blvd, Tucson, AZ 85711, USA",32.221239,-110.8889805,ChIJkaTsHqlv1oYRx0PfFlOw_Lc,OPERATIONAL,clinic,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-849-5234,"Monday: 9:00 AM – 6:00 PM
+Tuesday: 9:00 AM – 6:00 PM
+Wednesday: 9:00 AM – 6:00 PM
+Thursday: 9:00 AM – 6:00 PM
+Friday: 9:00 AM – 6:00 PM
+Saturday: Closed
+Sunday: Closed"
+Oak Street Health Colonia Primary Care Clinic,32.1912135,-110.9688843,OPERATIONAL,6th Av/37th St,32.191727,-110.968462,81,265.75,TRUE,Oak Street Health Colonia Primary Care Clinic,"2720 S 6th Ave, Tucson, AZ 85713, USA",32.1912135,-110.9688843,ChIJQfOEeDZx1oYROKHgHgsKdzw,OPERATIONAL,clinic,"['health', 'point_of_interest', 'establishment']",primary_care,+1 520-201-1010,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Oak Street Health Oracle Gateway Primary Care Clinic,32.2757951,-110.9772962,OPERATIONAL,Oracle/Pastime,32.275688,-110.978042,97,318.24,TRUE,Oak Street Health Oracle Gateway Primary Care Clinic,"3820 N Oracle Rd, Tucson, AZ 85705, USA",32.2757951,-110.9772962,ChIJC8T93oVz1oYRY4YQTupiEn4,OPERATIONAL,clinic,"['point_of_interest', 'health', 'establishment']",primary_care,+1 520-895-3634,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Tucson Family Care,32.225194,-110.850146,OPERATIONAL,Broadway/Jessica,32.221127,-110.847606,784,2572.18,FALSE,Tucson Family Care,"6624 E Carondelet Dr, Tucson, AZ 85710, USA",32.225194,-110.850146,ChIJq-iJ3KBv1oYRnAfVrCufEOE,OPERATIONAL,clinic,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-818-8477,"Monday: 7:00 AM – 5:00 PM
+Tuesday: 7:00 AM – 5:00 PM
+Wednesday: 7:00 AM – 5:00 PM
+Thursday: 7:00 AM – 5:00 PM
+Friday: 7:00 AM – 4:00 PM
+Saturday: Closed
+Sunday: Closed"
+St. Joseph's Hospital,32.2265083,-110.8547917,OPERATIONAL,Wilmot/Carondelet,32.225963,-110.8578,358,1174.54,TRUE,St. Joseph's Hospital,"350 N Wilmot Rd, Tucson, AZ 85711, USA",32.2265083,-110.8547917,ChIJ_VAUBApv1oYRtJHPYr7u5oY,OPERATIONAL,hospital,"['hospital', 'health', 'point_of_interest', 'establishment']",hospital,+1 520-873-3000,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+St. Mary's Hospital,32.2273302,-111.000127,OPERATIONAL,Silverbell/St Mary's,32.227715,-110.998861,209,685.7,TRUE,St. Mary's Hospital,"1601 W St Marys Rd, Tucson, AZ 85745, USA",32.2273302,-111.000127,ChIJM1a0lNJ21oYRqSfRriR1kYg,OPERATIONAL,hospital,"['hospital', 'health', 'point_of_interest', 'establishment']",hospital,+1 520-872-3000,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Oro Valley Hospital,32.4291928,-110.9485214,OPERATIONAL,SS/Tangarine/Innovation Park Dr,32.428369,-110.949863,173,567.59,TRUE,Oro Valley Hospital,"1551 E Tangerine Rd, Oro Valley, AZ 85755, USA",32.4291928,-110.9485214,ChIJdUZ16MwN1oYRB6ez9xoSQAU,OPERATIONAL,hospital,"['hospital', 'health', 'point_of_interest', 'establishment']",hospital,+1 520-901-3500,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Tucson ER & Hospital,32.2219029,-110.8948649,OPERATIONAL,Broadway/Belvedere,32.221321,-110.895722,109,357.61,TRUE,Tucson ER & Hospital,"4575 E Broadway Blvd, Tucson, AZ 85711, USA",32.2219029,-110.8948649,ChIJVVWVsdtv1oYRdUZJR32hF4A,OPERATIONAL,hospital,"['hospital', 'point_of_interest', 'health', 'establishment']",hospital,+1 520-375-9111,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Banner - University Medical Center South,32.1758469,-110.9307713,OPERATIONAL,BUMC/South Campus,32.176908,-110.93048,173,567.59,TRUE,Banner - University Medical Center South,"2800 E Ajo Way, Tucson, AZ 85713, USA",32.1758469,-110.9307713,ChIJ-0st0Zl61oYRmBbFGcF2vgk,OPERATIONAL,hospital,"['hospital', 'point_of_interest', 'health', 'establishment']",hospital,+1 520-874-2000,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Tucson Medical Center Emergency Room,32.2519835,-110.8794624,OPERATIONAL,Grant/Beverly,32.250543,-110.879635,191,626.64,TRUE,Tucson Medical Center Emergency Room,"5301 E. Grant Road, Emergency Entrance, Tucson, AZ 85712, USA",32.2519835,-110.8794624,ChIJad-ZnUdu1oYRuqAiHl5G0LU,OPERATIONAL,hospital,"['point_of_interest', 'health', 'establishment']",hospital,+1 520-327-5461,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Carondelet St. Raphael’s Emergency Center,32.116602,-110.8571352,OPERATIONAL,Craycroft/I-10 TTT,32.126855,-110.875169,2268,7440.95,FALSE,Carondelet St. Raphael’s Emergency Center,"7401 S Wilmot Rd, Tucson, AZ 85756, USA",32.116602,-110.8571352,ChIJ2W9ylC9l1oYRVKcTBQalMo8,OPERATIONAL,hospital,"['health', 'point_of_interest', 'establishment']",hospital,+1 520-493-0499,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Carondelet St. Joseph's Hospital Emergency Room,32.2273173,-110.8553177,OPERATIONAL,Wilmot/Carondelet,32.225963,-110.8578,356,1167.98,TRUE,Carondelet St. Joseph's Hospital Emergency Room,"350 N Wilmot Rd, Tucson, AZ 85711, USA",32.2273173,-110.8553177,ChIJOVunAQpv1oYRCdXpETNaZSE,OPERATIONAL,hospital,"['health', 'point_of_interest', 'establishment']",hospital,+1 520-873-3000,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+TMC Rincon,32.146989,-110.770048,OPERATIONAL,SS/Houghton/Drexel,32.147628,-110.772665,327,1072.83,TRUE,TMC Rincon,"5755 S Houghton Rd, Tucson, AZ 85747, USA",32.146989,-110.770048,ChIJO7yRNQBn1oYRPo1rbkMdsr8,OPERATIONAL,hospital,"['hospital', 'health', 'point_of_interest', 'establishment']",hospital,+1 520-324-4401,"Monday: Open 24 hours
+Tuesday: Open 24 hours
+Wednesday: Open 24 hours
+Thursday: Open 24 hours
+Friday: Open 24 hours
+Saturday: Open 24 hours
+Sunday: Open 24 hours"
+Banner - University Medical Center South Campus Multispecialty Services,32.1758345,-110.9307474,OPERATIONAL,BUMC/South Campus,32.176908,-110.93048,171,561.02,TRUE,Banner - University Medical Center South Campus Multispecialty Services,"2800 E Ajo Way Stes 100-105, Tucson, AZ 85713, USA",32.1758345,-110.9307474,ChIJg066TZh61oYReynV6z-zgPA,OPERATIONAL,medical institution,"['health', 'point_of_interest', 'establishment']",primary_care,+1 520-874-2000,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+The University of Arizona Medical Center,32.2277451,-110.8586987,OPERATIONAL,Wilmot/5th St,32.22849,-110.858132,110,360.89,TRUE,The University of Arizona Medical Center,"535 N Wilmot Rd, Tucson, AZ 85711, USA",32.2277451,-110.8586987,ChIJU8N2pBls1oYRjX-AuxhOuSk,OPERATIONAL,medical institution,"['hospital', 'health', 'point_of_interest', 'establishment']",primary_care,N/A,N/A
+Tucson VA Medical Center,32.1809835,-110.9645071,OPERATIONAL,Ajo/2rd Av,32.177931,-110.963149,471,1545.28,FALSE,Tucson VA Medical Center,"3601 S 6th Ave, Tucson, AZ 85723, USA",32.1809835,-110.9645071,ChIJE6fm451w1oYRQaXVig5LEKM,OPERATIONAL,medical institution,"['hospital', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-792-1450,"Monday: 7:30 AM – 5:00 PM
+Tuesday: 7:30 AM – 5:00 PM
+Wednesday: 7:30 AM – 5:00 PM
+Thursday: 7:30 AM – 5:00 PM
+Friday: 7:30 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Banner - University Medicine North,32.2766335,-110.9418183,OPERATIONAL,Campbell Av/Allen,32.276224,-110.9437,510,1673.23,FALSE,Banner - University Medicine North,"3838 N Campbell Ave building 2, Tucson, AZ 85719, USA",32.2766335,-110.9418183,ChIJJ_Yv5K5z1oYRFbkC20p6dk0,OPERATIONAL,medical institution,"['hospital', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-694-8888,"Monday: 7:00 AM – 6:00 PM
+Tuesday: 7:00 AM – 6:00 PM
+Wednesday: 7:00 AM – 6:00 PM
+Thursday: 7:00 AM – 6:00 PM
+Friday: 7:00 AM – 6:00 PM
+Saturday: 7:00 AM – 5:00 PM
+Sunday: 7:00 AM – 5:00 PM"
+MHC Healthcare West Side Health Center,32.2274071,-111.0022402,OPERATIONAL,St Mary's/San Rafael,32.228483,-111.002743,150,492.13,TRUE,MHC Healthcare West Side Health Center,"1707 W St Marys Rd Suite 175, Tucson, AZ 85745, USA",32.2274071,-111.0022402,ChIJkVSoYMN21oYRKzShnSVVCpo,OPERATIONAL,health center,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-616-6790,"Monday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM
+Tuesday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM
+Wednesday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM
+Thursday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM
+Friday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM
+Saturday: Closed
+Sunday: Closed"
+San Xavier Health Center,32.1080417,-110.9815178,OPERATIONAL,SS/Stock Rd/Health Center,32.107646,-110.981034,214,702.1,TRUE,San Xavier Health Center,"7900 S J Stock Rd, Tucson, AZ 85746, USA",32.1080417,-110.9815178,ChIJm0zl2ut71oYRmkC8nQI5b1o,OPERATIONAL,health center,"['hospital', 'point_of_interest', 'health', 'establishment']",primary_care,+1 520-547-8140,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+MHC Healthcare East Side Health Center,32.166809,-110.816308,OPERATIONAL,Pima College East Campus,32.165171,-110.815601,242,793.96,TRUE,MHC Healthcare East Side Health Center,"8181 E Irvington Rd, Tucson, AZ 85730, USA",32.166809,-110.816308,ChIJqetFWdJl1oYRT_ElcxW5x3o,OPERATIONAL,healthcare center,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-574-1551,"Monday: 7:00 AM – 6:00 PM
+Tuesday: 7:00 AM – 6:00 PM
+Wednesday: Closed
+Thursday: 7:00 AM – 6:00 PM
+Friday: 7:00 AM – 6:00 PM
+Saturday: Closed
+Sunday: Closed"
+El Rio Health Northwest,32.2722805,-110.9771812,OPERATIONAL,Prince/Oracle,32.27182,-110.977514,59,193.57,TRUE,El Rio Health Northwest,"320 W Prince Rd, Tucson, AZ 85705, USA",32.2722805,-110.9771812,ChIJN9UKHOdz1oYRa1cUNdAgnjI,OPERATIONAL,clinica,"['doctor', 'hospital', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-670-3909,"Monday: 7:00 AM – 8:00 PM
+Tuesday: 7:00 AM – 8:00 PM
+Wednesday: 7:00 AM – 8:00 PM
+Thursday: 7:00 AM – 8:00 PM
+Friday: 7:00 AM – 8:00 PM
+Saturday: Closed
+Sunday: Closed"
+El Rio Health Grant Road,32.2510915,-110.9148054,OPERATIONAL,Grant/Dodge,32.250441,-110.913782,138,452.76,TRUE,El Rio Health Grant Road,"3655 E Grant Rd, Tucson, AZ 85716, USA",32.2510915,-110.9148054,ChIJxxoF2cFx1oYRE3I6PZJhP9M,OPERATIONAL,clinica,"['doctor', 'hospital', 'point_of_interest', 'health', 'establishment']",primary_care,+1 520-670-3909,"Monday: 7:00 AM – 5:00 PM
+Tuesday: 7:00 AM – 5:00 PM
+Wednesday: 7:00 AM – 5:00 PM
+Thursday: 7:00 AM – 5:00 PM
+Friday: 7:00 AM – 5:00 PM
+Saturday: 8:00 AM – 4:00 PM
+Sunday: Closed"
+Clínica Amistad,32.162754,-110.9699935,OPERATIONAL,Irvington/Laos Transit Center,32.163147,-110.970324,139,456.04,TRUE,Clínica Amistad,"101 W Irvington Rd #3c, Tucson, AZ 85714, USA",32.162754,-110.9699935,ChIJhWaUoOpw1oYRXTmbhv7QIkc,OPERATIONAL,clínica,"['point_of_interest', 'health', 'establishment']",primary_care,+1 520-305-5107,"Monday: Closed
+Tuesday: Closed
+Wednesday: 5:00 – 9:00 PM
+Thursday: 5:00 – 9:00 PM
+Friday: Closed
+Saturday: Closed
+Sunday: Closed"
+El Rio Health Cherrybell,32.2060883,-110.948796,OPERATIONAL,Cherrybell/22nd St,32.205836,-110.947935,161,528.22,TRUE,El Rio Health Cherrybell,"1230 S Cherrybell Stra, Tucson, AZ 85713, USA",32.2060883,-110.948796,ChIJgT7TocJx1oYROwRLbX0RoCg,OPERATIONAL,clínica,"['doctor', 'hospital', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-670-3909,"Monday: 7:00 AM – 8:00 PM
+Tuesday: 7:00 AM – 8:00 PM
+Wednesday: 7:00 AM – 8:00 PM
+Thursday: 7:00 AM – 8:00 PM
+Friday: 7:00 AM – 8:00 PM
+Saturday: Closed
+Sunday: Closed"
+Northwest Primary Care at Gateway,32.3220462,-111.0114845,OPERATIONAL,La Cholla/Hospital Dr.,32.319657,-111.01211,300,984.25,TRUE,Northwest Primary Care at Gateway,"6320 N La Cholla Blvd #370, Tucson, AZ 85741, USA",32.3220462,-111.0114845,ChIJnRx9i_fi-hQRRwLmx9CFUqU,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-797-5603,"Monday: 8:30 AM – 5:00 PM
+Tuesday: Closed
+Wednesday: 8:30 AM – 5:00 PM
+Thursday: 8:30 AM – 5:00 PM
+Friday: Closed
+Saturday: Closed
+Sunday: Closed"
+Milagros Family Healthcare (Lisnet Jorge FNP),32.1535734,-110.9781166,OPERATIONAL,12th Av/Canada Dr,32.151572,-110.977693,269,882.55,TRUE,Milagros Family Healthcare (Lisnet Jorge FNP),"5422 S 12th Ave Suite B, Tucson, AZ 85706, USA",32.1535734,-110.9781166,ChIJAziExPp71oYRRP-H-RicqlA,OPERATIONAL,primary care,"['hospital', 'doctor', 'store', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-900-3667,"Monday: Closed
+Tuesday: 9:00 AM – 3:30 PM
+Wednesday: 9:00 AM – 4:00 PM
+Thursday: 9:00 AM – 4:00 PM
+Friday: Closed
+Saturday: Closed
+Sunday: Closed"
+Banner - University Medicine Primary Care Clinic,32.1009205,-110.7736415,OPERATIONAL,SS/Rita Rd/Houghton,32.102762,-110.773805,292,958.01,TRUE,Banner - University Medicine Primary Care Clinic,"8290 S Houghton Rd Suite 150, Tucson, AZ 85747, USA",32.1009205,-110.7736415,ChIJxXucBf9h1oYRAzsepgEO9_0,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-694-1045,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Banner - University Medicine Primary Care Clinic,32.1009205,-110.7736415,OPERATIONAL,SS/Rita Rd/Houghton,32.102762,-110.773805,292,958.01,TRUE,Banner - University Medicine Primary Care Clinic,"2945 W Ina Rd # 121, Tucson, AZ 85741, USA",32.3365719,-111.0303829,ChIJ63DAqg111oYRKWQtGp675Gk,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-694-7601,"Monday: 7:30 AM – 5:00 PM
+Tuesday: 7:30 AM – 5:00 PM
+Wednesday: 7:30 AM – 5:00 PM
+Thursday: 7:30 AM – 5:00 PM
+Friday: 7:30 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Banner - University Medicine Primary Care Clinic,32.1009205,-110.7736415,OPERATIONAL,SS/Rita Rd/Houghton,32.102762,-110.773805,292,958.01,TRUE,Banner - University Medicine Primary Care Clinic,"6860 E Sunrise Dr #100, Tucson, AZ 85750, USA",32.3083456,-110.8458855,ChIJuzedsvdt1oYR79RdnqCeJk8,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-694-1042,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Sunrise Family Medicine PLLC,32.2356624,-110.9377548,OPERATIONAL,Speedway/Plumer,32.235941,-110.939368,173,567.59,TRUE,Sunrise Family Medicine PLLC,"2302 E Speedway Blvd #208, Tucson, AZ 85719, USA",32.2356624,-110.9377548,ChIJI15gnCNx1oYRPOOFB6R7B0E,OPERATIONAL,primary care,"['health', 'point_of_interest', 'establishment']",primary_care,+1 520-222-6257,"Monday: 12:00 – 4:00 PM
+Tuesday: 8:00 AM – 12:00 PM
+Wednesday: 12:00 – 4:00 PM
+Thursday: 8:00 AM – 12:00 PM
+Friday: 9:00 AM – 1:00 PM
+Saturday: 8:00 AM – 5:00 PM
+Sunday: 8:00 AM – 3:00 PM"
+Banner - University Medicine Family Medicine Clinic,32.2309783,-110.9100838,OPERATIONAL,Alvernon/3rd St,32.231549,-110.909519,139,456.04,TRUE,Banner - University Medicine Family Medicine Clinic,"707 N Alvernon Way Unit 101, Tucson, AZ 85711, USA",32.2309783,-110.9100838,ChIJE-jBiSxw1oYRgDhSn2_izN4,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-694-8888,"Monday: 8:00 AM – 5:00 PM
+Tuesday: 8:00 AM – 5:00 PM
+Wednesday: 8:00 AM – 5:00 PM
+Thursday: 8:00 AM – 5:00 PM
+Friday: 8:00 AM – 5:00 PM
+Saturday: Closed
+Sunday: Closed"
+Tucson Family Medicine,32.3358284,-111.0137817,OPERATIONAL,La Cholla/Ina,32.336618,-111.01288,155,508.53,TRUE,Tucson Family Medicine,"7105 N La Cholla Blvd, Tucson, AZ 85741, USA",32.3358284,-111.0137817,ChIJH94fN5h01oYRdK0ez2eIboM,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-547-0611,"Monday: 7:00 AM – 4:00 PM
+Tuesday: 7:00 AM – 4:00 PM
+Wednesday: 7:00 AM – 4:00 PM
+Thursday: 7:00 AM – 4:00 PM
+Friday: 7:00 AM – 4:00 PM
+Saturday: Closed
+Sunday: Closed"
+Wilmot Primary Care Group PLC,32.2296401,-110.858387,OPERATIONAL,Wilmot/5th St,32.22849,-110.858132,128,419.95,TRUE,Wilmot Primary Care Group PLC,"603 N Wilmot Rd #201, Tucson, AZ 85712, USA",32.2296401,-110.858387,ChIJLaQUTaZv1oYRf1esANqt7XE,OPERATIONAL,primary care,"['doctor', 'health', 'point_of_interest', 'establishment']",primary_care,+1 520-790-1556,"Monday: 7:00 AM – 4:00 PM
+Tuesday: 7:00 AM – 4:00 PM
+Wednesday: 7:00 AM – 4:00 PM
+Thursday: 7:00 AM – 4:00 PM
+Friday: 7:00 AM – 4:00 PM
+Saturday: Closed
+Sunday: Closed"
